@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1500"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2C5DC18C2ADBB8C100AD8EDF"
+               BuildableName = "aboutSwiftUIAdvanced.app"
+               BlueprintName = "aboutSwiftUIAdvanced"
+               ReferencedContainer = "container:aboutSwiftUIAdvanced.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      shouldAutocreateTestPlan = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2C311E9D2AF136E80073B470"
+               BuildableName = "aboutSwiftUIAdvanced_Tests.xctest"
+               BlueprintName = "aboutSwiftUIAdvanced_Tests"
+               ReferencedContainer = "container:aboutSwiftUIAdvanced.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2C311EB22AF246500073B470"
+               BuildableName = "aboutSwiftUIAdvanced_UITests.xctest"
+               BlueprintName = "aboutSwiftUIAdvanced_UITests"
+               ReferencedContainer = "container:aboutSwiftUIAdvanced.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2C311EC32AF24A6B0073B470"
+               BuildableName = "aboutSwiftUIAdvanced_UITests1.xctest"
+               BlueprintName = "aboutSwiftUIAdvanced_UITests1"
+               ReferencedContainer = "container:aboutSwiftUIAdvanced.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2C5DC18C2ADBB8C100AD8EDF"
+            BuildableName = "aboutSwiftUIAdvanced.app"
+            BlueprintName = "aboutSwiftUIAdvanced"
+            ReferencedContainer = "container:aboutSwiftUIAdvanced.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "-UITests_startSignedIn"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "-UITests_startSignedIn2"
+            value = "true"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2C5DC18C2ADBB8C100AD8EDF"
+            BuildableName = "aboutSwiftUIAdvanced.app"
+            BlueprintName = "aboutSwiftUIAdvanced"
+            ReferencedContainer = "container:aboutSwiftUIAdvanced.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
